@@ -13,7 +13,7 @@ Below are two graphs that show the performance of the algorithms for both models
 
 Figure 1: Video Data
 
-![](https://github.com/nokarp/EECS349FinalProject/blob/master/Video%20chart.jpg?raw=true)
+![](https://github.com/nokarp/EECS349FinalProject/blob/master/Photo%20chart.jpg?raw=true)
 
 Figure 2: Photo Data
 
