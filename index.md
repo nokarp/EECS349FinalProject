@@ -1,6 +1,6 @@
 # Instagram Popularity Predictor
 ### By: Noah Karpinski and Timothy Mwiti
-#### Contact: noahkarpinski2019(at)u.northwestern.edu ,  timothymwiti2019(at)u.northwestern.edu
+#### Contact: noahkarpinski2019(at)u.northwestern.edu, timothymwiti2019(at)u.northwestern.edu
 #### EECS 349 Northwestern University
 
 #### Abstract
