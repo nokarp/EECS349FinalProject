@@ -8,8 +8,12 @@ Our task was to predict if an Instagram Post will successfully reach and interes
 The relevance of our task arises from the fact that social media platforms are turning into lucrative advertising channels for businesses. It is therefore important to figure out what features go into making a post that a lot of people respond positively to. The results of this project help identify how to design a post that will go ‘viral’. Over the time we spent understanding the data and the models themselves, we were able to structure our models differently to perform better. For instance, we previously trained the video and photo models as one model. With time however, we learnt that separating the two actually provided better accuracy. Our photo models performed better than the video model. Algorithms such as random forest and J-48 performed   best for the photo model while k-star is the only algorithm that performed well for the video model. The number of hashtags was the most important feature in both models. This was as we expected since it greatly influences how many people see a given post.
 Below are two graphs that show the performance of the algorithms for both models. The graphs include the performances on the training data as well as the test data.
 
-![alt text]()
+![](https://github.com/nokarp/EECS349FinalProject/blob/master/Video%20chart.jpg?raw=true)
+
+
 Figure 1: Video Data
+
+![](https://github.com/nokarp/EECS349FinalProject/blob/master/Video%20chart.jpg?raw=true)
 
 Figure 2: Photo Data
 
